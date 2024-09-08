@@ -56,3 +56,6 @@ Press the Run button in Android Studio to build and run the project on an Androi
 
 PROTECTHEM is more than just a mobile app; it's a lifeline for those in danger. If you or someone you know is in danger, PROTECTHEM is ready to provide immediate support. Use the app to access help, report incidents, and join the effort to combat violence. Let's offer hands of hope and stand united against harm.
 
+PROTECTHEM APP.pdf[PROTECTHEM.APP.pdf](PROTECTHEM.APP.pdf)
+
+Project video: https://youtu.be/vhuvxfPVj54?si=KwikRPVFSDZK1pSA
